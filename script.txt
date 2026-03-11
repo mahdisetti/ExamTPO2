@@ -1,1 +1,1 @@
-3-from sklearn.ensemble import RandomForestClassifier
+ resolve le conflit
