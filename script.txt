@@ -1,1 +1,1 @@
- resolve le conflit
+conflit squash
